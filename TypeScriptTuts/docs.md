@@ -13,13 +13,7 @@ open file using `ctrl+shift-v` command
 
 ## Class Overview:
 
-#### Typescript Syntax & Design Patterns and Projects
-
-## Types
-
-Every value in the Javascript has a type.
-
-![](2021-02-02-21-19-59.png)
+##### Typescript Syntax & Design Patterns and Projects
 
 ### Types in Typescript
 
@@ -38,8 +32,7 @@ Every value in the Javascript has a type.
 
 #### 1) Helps typescript compiler to catch the bug
 
-    var todo = data as Todo;
-    todo.xyz ==> this will thow an error.
+![](2021-02-03-08-47-30.png)
 
 #### 2) Helps other programmers to easily find the value type.
 

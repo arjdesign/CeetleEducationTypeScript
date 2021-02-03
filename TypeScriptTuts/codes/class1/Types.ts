@@ -33,7 +33,7 @@ mno ="name"
 
 //annotation with objects
 const date:Date = new Date();
-let strValues:string[] = ["a",'b']
+let strValues:int[] = ["a",'b']
 let numValues:number[] = []
 
 class Car {
